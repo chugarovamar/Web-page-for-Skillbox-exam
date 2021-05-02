@@ -1,2 +1,2 @@
-# test
-just for checking
+My first web-page for Skillbox exam.
+
